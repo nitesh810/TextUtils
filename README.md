@@ -2,7 +2,7 @@
 
 TextUtils is a versatile text manipulation application built with React, designed to enhance text editing efficiency. The app offers various functionalities, including converting text to uppercase or lowercase, clearing text, copying text, and removing extra spaces. Additionally, it provides features to count words and characters, estimate reading time, and preview the edited text. Users can also switch between light and dark modes for a personalized user experience. The application leverages React Router for fast rendering and ensures a seamless single-page application experience.
 
-![TextUtils]([http://url/to/img.png](https://github.com/nitesh810/TextUtils/blob/main/textutil-img.png))
+![TextUtils](https://github.com/nitesh810/TextUtils/blob/main/textutil-img.png)
 
 ## Features
 
